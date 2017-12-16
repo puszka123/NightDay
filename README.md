@@ -1,1 +1,2 @@
 # NightDay
+The advanced game which is being creating in Unity3D engine. This game is tied to kind of horror/survival/mysterious. The most important purpose of the game is to find out what is danger and how to solve this. The player has to struggle with many survival problems and dilemmas created by the environment. This game is intended to enthusiasts of mystery and survival. The gameplay has no choice of difficulty level which is extreme hard. 
