@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 23
+  controlID: 11
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 24
+  controlID: 12
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 25
+  controlID: 13
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -442,20 +442,20 @@ MonoBehaviour:
     height: 657
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a895feff
-    m_LastClickedID: -92760
-    m_ExpandedIDs: 18fcffff00000000
+    m_SelectedIDs: 8c35ffff
+    m_LastClickedID: -51828
+    m_ExpandedIDs: 54deffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: FPSController
-      m_OriginalName: FPSController
+      m_Name: CenterTerrain
+      m_OriginalName: CenterTerrain
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -1006
+      m_UserData: -8652
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -494,14 +494,14 @@ MonoBehaviour:
     width: 1351
     height: 657
   m_SceneLighting: 1
-  lastFramingTime: 375.1266484861945
+  lastFramingTime: 571.5909549756215
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 204.41522, y: 98.621376, z: 289.59454}
+    m_Target: {x: 409.53885, y: -410.4566, z: 189.232}
     speed: 2
-    m_Value: {x: 204.41522, y: 98.621376, z: 289.59454}
+    m_Value: {x: 409.53885, y: -410.4566, z: 189.232}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -524,13 +524,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.62980056, y: 0.0051219086, z: -0.0041543213, w: -0.77672887}
+    m_Target: {x: 0.34563407, y: 0.5698928, z: -0.28613403, w: 0.68839425}
     speed: 2
-    m_Value: {x: -0.6298006, y: 0.005121909, z: -0.0041543217, w: -0.7767289}
+    m_Value: {x: 0.34563407, y: 0.5698928, z: -0.28613403, w: 0.68839425}
   m_Size:
-    m_Target: 6.469408
+    m_Target: 842.35944
     speed: 2
-    m_Value: 6.469408
+    m_Value: 842.35944
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -615,9 +615,9 @@ MonoBehaviour:
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 662d0000
-    m_LastClickedID: 11622
-    m_ExpandedIDs: 000000001a2c0000ae2c0000c02c0000ca2c0000b02d000000ca9a3bffffff7f
+    m_SelectedIDs: c62f0000
+    m_LastClickedID: 12230
+    m_ExpandedIDs: 00000000262f00006e2f00007a2f0000822f0000ec2f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -645,7 +645,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001a2c0000ae2c0000c02c0000ca2c0000b02d0000
+    m_ExpandedIDs: 00000000262f00006e2f00007a2f0000822f0000ec2f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -676,18 +676,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: 64230000841d0000ea2d000006280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: models
-      m_OriginalName: models
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 11956
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_CreateAssetUtility:
